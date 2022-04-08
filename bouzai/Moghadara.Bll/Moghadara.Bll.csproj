@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Moghadara.Dal\Moghadara.Dal.csproj" />
+    <ProjectReference Include="..\MoghadaraApi\MoghadaraApi.csproj" />
+  </ItemGroup>
+
+</Project>
