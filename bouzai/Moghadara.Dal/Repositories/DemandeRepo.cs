@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Moghadara.Dal.RepositoryAbstractions;
-using MoghadaraApi.Models;
+
+using Moghadarate.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +10,15 @@ using System.Threading.Tasks;
 
 namespace Moghadara.Dal.Repositories
 {
-    internal class DemandeRepo : IRepository<Demande>
+    public class DemandeRepo : IRepository<Demande>
     {
         MoghadaraateContext _context;
+
+        public DemandeRepo(MoghadaraateContext context)
+        {
+            _context = context;
+        }
+
         public void Delete(int id)
         {
             var demande = GetById(id);
@@ -19,12 +26,13 @@ namespace Moghadara.Dal.Repositories
             _context.SaveChanges();
         }
 
-        public IEnumerable<Demande> GetAll()
+        public IEnumerable<Demande>? GetAll()
         {
-            return _context.Demandes.Where(f => f.FlagSupp == 1);
+
+            return _context.Demandes;
         }
 
-        public Demande GetById(int id)
+        public Demande? GetById(int id)
         {
             return _context.Demandes.FirstOrDefault(f => f.IdDemd == id && f.FlagSupp == 1);
         }

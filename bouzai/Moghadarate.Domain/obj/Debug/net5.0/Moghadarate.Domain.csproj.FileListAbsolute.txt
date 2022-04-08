@@ -1,0 +1,15 @@
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.csproj.AssemblyReference.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.AssemblyInfoInputs.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.AssemblyInfo.cs
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\bin\Debug\net5.0\Moghadarate.Domain.deps.json
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\bin\Debug\net5.0\Moghadarate.Domain.runtimeconfig.json
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\bin\Debug\net5.0\Moghadarate.Domain.runtimeconfig.dev.json
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\bin\Debug\net5.0\Moghadarate.Domain.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\bin\Debug\net5.0\Moghadarate.Domain.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\refint\Moghadarate.Domain.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\Moghadarate.Domain.genruntimeconfig.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadarate.Domain\obj\Debug\net5.0\ref\Moghadarate.Domain.dll

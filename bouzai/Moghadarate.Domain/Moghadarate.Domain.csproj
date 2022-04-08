@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.15" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Abstractions" Version="5.0.15" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.15">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.15" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.15" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.15">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.ServiceFabric.Services.Remoting" Version="5.2.1571" />
+		<PackageReference Include="ServiceStack.Interfaces" Version="6.0.2" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Compile Update="Models\Demande.cs">
+	    <CustomToolNamespace>Moghadarate.Domain.Models</CustomToolNamespace>
+	  </Compile>
+	  <Compile Update="Models\Etablissement.cs">
+	    <CustomToolNamespace>Moghadarate.Domain.Models</CustomToolNamespace>
+	  </Compile>
+	  <Compile Update="Models\Fonctionnaire.cs">
+	    <CustomToolNamespace>Moghadarate.Domain.Models</CustomToolNamespace>
+	  </Compile>
+	  <Compile Update="Models\MoghadaraateContext.cs">
+	    <CustomToolNamespace>Moghadarate.Domain.Models</CustomToolNamespace>
+	  </Compile>
+	  <Compile Update="Models\Pay.cs">
+	    <CustomToolNamespace>Moghadarate.Domain.Models</CustomToolNamespace>
+	  </Compile>
+	  <Compile Update="Models\SourceEtab.cs">
+	    <CustomToolNamespace>Moghadarate.Domain.Models</CustomToolNamespace>
+	  </Compile>
+	  <Compile Update="Models\SourceExcel.cs">
+	    <CustomToolNamespace>Moghadarate.Domain.Models</CustomToolNamespace>
+	  </Compile>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\bin\Debug\net5.0\Moghadara.Dal.deps.json
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\bin\Debug\net5.0\Moghadara.Dal.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\bin\Debug\net5.0\Moghadara.Dal.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\bin\Debug\net5.0\Moghadarate.Domain.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\bin\Debug\net5.0\Moghadarate.Domain.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.csproj.AssemblyReference.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.AssemblyInfoInputs.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.AssemblyInfo.cs
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.csproj.CoreCompileInputs.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.csproj.CopyComplete
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\refint\Moghadara.Dal.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\Moghadara.Dal.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Dal\obj\Debug\net5.0\ref\Moghadara.Dal.dll

@@ -1,6 +1,6 @@
 ﻿using Moghadara.Bll.ServiceAbstractions;
 using Moghadara.Dal.RepositoryAbstractions;
-using MoghadaraApi.Models;
+using Moghadarate.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,12 +23,12 @@ namespace Moghadara.Bll.Services
             repository.Delete(id);
         }
 
-        public IEnumerable<Demande> GetAll()
+        public IEnumerable<Demande>? GetAll()
         {
             return repository.GetAll();
         }
 
-        public Demande GetById(int id)
+        public Demande? GetById(int id)
         {
             return repository.GetById(id);
         }

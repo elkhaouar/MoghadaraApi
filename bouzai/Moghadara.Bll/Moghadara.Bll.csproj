@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Moghadara.Dal\Moghadara.Dal.csproj" />
-    <ProjectReference Include="..\MoghadaraApi\MoghadaraApi.csproj" />
+    <ProjectReference Include="..\Moghadarate.Domain\Moghadarate.Domain.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 ﻿using Moghadara.Bll.ServiceAbstractions;
 using Moghadara.Dal.RepositoryAbstractions;
-using MoghadaraApi.Models;
+using Moghadarate.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

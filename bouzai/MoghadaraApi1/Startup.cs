@@ -11,7 +11,11 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using MoghadaraApi.Models;
+using Moghadara.Bll.ServiceAbstractions;
+using Moghadara.Bll.Services;
+using Moghadara.Dal.Repositories;
+using Moghadara.Dal.RepositoryAbstractions;
+using Moghadarate.Domain.Models;
 
 namespace MoghadaraApi
 {
@@ -27,7 +31,11 @@ namespace MoghadaraApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
+            services.AddTransient<IServices<Fonctionnaire>, FonctionnaireService>();
+            services.AddTransient<IRepository<Fonctionnaire>, FonctionnaireRepo>();
+            services.AddTransient<IServices<Demande>, DemandeService>();
+            services.AddTransient<IRepository<Demande>, DemandeRepo>();
+
             services.AddDbContext<MoghadaraateContext>(o =>
             {
                 o.UseSqlServer("Server=localhost;Database=Moghadaraate;Trusted_Connection=True;");

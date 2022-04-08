@@ -1,0 +1,17 @@
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\bin\Debug\net5.0\Moghadara.Bll.deps.json
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\bin\Debug\net5.0\Moghadara.Bll.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\bin\Debug\net5.0\Moghadara.Bll.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\bin\Debug\net5.0\Moghadara.Dal.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\bin\Debug\net5.0\Moghadarate.Domain.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\bin\Debug\net5.0\Moghadara.Dal.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\bin\Debug\net5.0\Moghadarate.Domain.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.csproj.AssemblyReference.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.AssemblyInfoInputs.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.AssemblyInfo.cs
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.csproj.CoreCompileInputs.cache
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.csproj.CopyComplete
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\refint\Moghadara.Bll.dll
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\Moghadara.Bll.pdb
+C:\Users\achra\Source\Repos\elkhaouar\MoghadaraApi\bouzai\Moghadara.Bll\obj\Debug\net5.0\ref\Moghadara.Bll.dll

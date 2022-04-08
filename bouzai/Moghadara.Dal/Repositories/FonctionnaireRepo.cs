@@ -1,11 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Moghadara.Dal.RepositoryAbstractions;
-using MoghadaraApi.Models;
-using System;
+using Moghadarate.Domain.Models;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Moghadara.Dal.Repositories
 {
@@ -28,12 +25,12 @@ namespace Moghadara.Dal.Repositories
 
         public IEnumerable<Fonctionnaire> GetAll()
         {
-            return _context.Fonctionnaires.Include(fon=> fon.Demandes).Where(f=>f.FlaFonctionnaire==false);
+            return _context.Fonctionnaires.Include(fon => fon.Demandes);
         }
 
         public Fonctionnaire GetById(int id)
         {
-            return _context.Fonctionnaires.Include(fon => fon.Demandes).FirstOrDefault(f => f.IdFonct == id && f.FlaFonctionnaire == false);
+            return _context.Fonctionnaires.Include(fon => fon.Demandes).FirstOrDefault(f => f.IdFonct == id);
         }
         public void Post(Fonctionnaire model)
         {
@@ -43,15 +40,15 @@ namespace Moghadara.Dal.Repositories
 
         public void Put(Fonctionnaire model, int id)
         {
-          var fonctionnaire=GetById(id);
-            fonctionnaire.Email=model.Email;
-            fonctionnaire.Cin=model.Cin;
-            fonctionnaire.Matricule=model.Matricule;    
-            fonctionnaire.Tel=model.Tel;
-            fonctionnaire.NumSomme=model.NumSomme;
-            fonctionnaire.Nom=model.Nom;
-            fonctionnaire.Prenom=model.Prenom;
-            fonctionnaire.IdEtab=model.IdEtab;
+            var fonctionnaire = GetById(id);
+            fonctionnaire.Email = model.Email;
+            fonctionnaire.Cin = model.Cin;
+            fonctionnaire.Matricule = model.Matricule;
+            fonctionnaire.Tel = model.Tel;
+            fonctionnaire.NumSomme = model.NumSomme;
+            fonctionnaire.Nom = model.Nom;
+            fonctionnaire.Prenom = model.Prenom;
+            fonctionnaire.IdEtab = model.IdEtab;
             _context.SaveChanges();
         }
     }
